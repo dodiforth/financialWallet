@@ -7,7 +7,7 @@
 ## Acknowledgement
 
 UI/UX Design is originally from Kristina Taskaeva for Purrweb UI/UX Agency.
-Here is the link from Dribble : [Dribble](https://dribbble.com/shots/19858341-Financial-Mobile-IOS-App)
+Here is the link from Dribble : [Kristina Taskaeva for Purrweb UI/UX Agency](https://dribbble.com/shots/19858341-Financial-Mobile-IOS-App)
 
 # Flutter UI only clone Coding
 
